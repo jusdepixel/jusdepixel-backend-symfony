@@ -1,4 +1,5 @@
 {
+    "name": "jusdepixel/jusdepixel-backend-symfony",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
