@@ -1,5 +1,5 @@
 {
-    "name": "jusdepixel/jusdepixel-backend-symfony",
+    "name": "jusdepixel/symfony-api-platform-jwt",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
